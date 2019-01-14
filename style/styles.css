@@ -40,11 +40,13 @@ div.main {
   height: 3275px; }
 
 p.slogan {
-  margin-bottom: 27px; }
+  margin-bottom: 10px;
+  margin-top: 95px; }
 
-div.first-three-logs {
-  display: inline-block; }
-
-img[alt="img"] {
+div.first-three-logs img {
   margin-right: 30px;
   margin-left: 30px; }
+
+div.last-two-logs img {
+  margin-right: 60px;
+  margin-left: 60px; }
