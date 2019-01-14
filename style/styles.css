@@ -43,6 +43,10 @@ p.slogan {
   margin-bottom: 10px;
   margin-top: 95px; }
 
+p.contact {
+  margin-bottom: 0;
+  font-size: 72px; }
+
 div.first-three-logs img {
   margin-right: 30px;
   margin-left: 30px; }
@@ -52,4 +56,16 @@ div.last-two-logs img {
   margin-left: 60px; }
 
 div.video {
-  margin-top: 200px; }
+  margin-top: 200px;
+  margin-bottom: 200px; }
+
+#email {
+  width: 330px;
+  height: 30px; }
+
+input[type="submit"] {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 48px;
+  border-radius: 14px;
+  width: 173px;
+  height: 55px; }
