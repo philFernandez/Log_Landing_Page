@@ -3,7 +3,7 @@ $body_color: #24305E;
 $main_div_color: #F76C6C;
 
 body {
-  // font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Nanum Pen Script', cursive;
   margin: 0;
   background-color: $body_color;
 }
@@ -43,7 +43,9 @@ button.nav-link {
 
 div.main {
   margin: 0 auto;
-  padding-top: 166px;
+  text-align: center;
+  font-size: 114px;
+  padding-top: 45px;
   background-color: $main_div_color;
   width: 1238px;
   height: 3275px;
