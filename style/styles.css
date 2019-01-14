@@ -38,3 +38,13 @@ div.main {
   background-color: #F76C6C;
   width: 1238px;
   height: 3275px; }
+
+p.slogan {
+  margin-bottom: 27px; }
+
+div.first-three-logs {
+  display: inline-block; }
+
+img[alt="img"] {
+  margin-right: 30px;
+  margin-left: 30px; }
