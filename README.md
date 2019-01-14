@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<p style="text-align: center;">
 
 # Landing Page for the Amazing 'Log'!
 <br>
@@ -12,4 +12,4 @@
 
 --------------------------------------
 
-</div>
+</p>
