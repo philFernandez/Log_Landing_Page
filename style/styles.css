@@ -3,7 +3,8 @@ body {
   background-color: #24305E; }
 
 header {
-  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
   position: fixed;
   width: 100%;
   height: 144px;
@@ -11,7 +12,20 @@ header {
 
 #header-img {
   width: 130px;
-  height: 130px; }
+  height: 130px;
+  padding-left: 30px;
+  padding-top: 7px; }
+
+nav#nav-bar {
+  align-self: center;
+  padding-right: 30px; }
+
+button.nav-link {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 48px;
+  border-radius: 14px;
+  width: 173px;
+  height: 55px; }
 
 div.main {
   margin: 0 auto;
