@@ -1,5 +1,3 @@
-<p style="align: center;">
-
 # Landing Page for the Amazing 'Log'!
 <br>
 <br>
@@ -11,5 +9,3 @@
 #### This is a freeCodeCamp exercise
 
 --------------------------------------
-
-</p>
