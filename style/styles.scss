@@ -1,0 +1,12 @@
+$header_color: #eae0c7;
+$body_color: #A8D0E6;
+
+body {
+  margin: 0;
+  background-color: $body_color;
+}
+
+header {
+  height: 144px;
+  background-color: $header_color;
+}
